@@ -1,4 +1,5 @@
 # -AI-Driven-Cardiovascular-Disease-Prognosis-and-Diagnosis
+Link to Youtube video: https://youtu.be/AxSLlkah7f8  
 
 This repository contains a machine learning project that integrates various models with real-time Electronic Health Record (EHR) systems for the prognosis and diagnosis of cardiovascular diseases (CVD). The project aims to utilize advanced machine learning techniques for early risk prediction, diagnosis, and personalized patient care.
 
